@@ -3,7 +3,6 @@
 * {
   margin: 0;
   font-family: 'Opens Sans', sans-serif;
-  text-decoration: none;
 }
 
 h1,
@@ -13,4 +12,8 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+}
+
+html {
+  font-size: 62.5%;
 }
